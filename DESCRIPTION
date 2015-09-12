@@ -1,0 +1,8 @@
+Package: scorecardR
+Title: A package to access the College Scorecard API
+Version: 0.0.0.9000
+Authors@R: person("Brock", "Tibert", email = "btibert3@gmail.com", role = c("aut", "cre"))
+Description: This package will access the College Scorecard API
+Depends: R (>= 3.2.0)
+License: GPL
+LazyData: true
